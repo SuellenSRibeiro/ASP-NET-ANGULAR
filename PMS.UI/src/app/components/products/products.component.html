@@ -1,0 +1,28 @@
+<div class="container">
+  <h1>Produtos</h1>
+<div class="table-responsive">
+<table class="table" *ngIf="products && products.length > 0">
+<thead>
+    <tr>
+      <th scope="col">Id#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Tipo</th>
+      <th scope="col">Cor</th>
+      <th scope="col">Preço</th>
+    </tr>
+  </thead>
+  <tbody class="table-group-divider">
+    <tr *ngFor="let product of products">
+      <th>{{ product.id }}</th>
+      <th>{{ product.name }}</th>
+      <th>{{ product.type }}</th>
+      <th>{{ product.color }}</th>
+      <th>{{ product.price | currency }}</th>
+
+  </tr>
+
+
+  </tbody>
+</table>
+<p *ngIf="!products || products.length == 0">Nenhum produto encontrado!</p>
+</div>

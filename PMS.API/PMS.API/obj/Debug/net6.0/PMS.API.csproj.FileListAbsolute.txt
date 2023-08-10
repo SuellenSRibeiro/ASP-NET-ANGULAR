@@ -1,0 +1,174 @@
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\appsettings.Development.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\appsettings.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.exe
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.deps.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.runtimeconfig.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.pdb
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.csproj.AssemblyReference.cache
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.AssemblyInfoInputs.cache
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.AssemblyInfo.cs
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.csproj.CoreCompileInputs.cache
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\scopedcss\bundle\PMS.API.styles.css
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.csproj.CopyComplete
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\ref\PMS.API.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.pdb
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.genruntimeconfig.cache
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Azure.Core.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Humanizer.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.CodeDom.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.PMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PMS.API.props
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PMS.API.props
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PMS.API.props
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\youtube\Angular 16 with ASP.NET Web API using EF Core\PMS.API\PMS.API\obj\Debug\net6.0\refint\PMS.API.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\appsettings.Development.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\appsettings.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.exe
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.deps.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.runtimeconfig.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\PMS.API.pdb
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Azure.Core.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Humanizer.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.csproj.AssemblyReference.cache
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.AssemblyInfoInputs.cache
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.AssemblyInfo.cs
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.csproj.CoreCompileInputs.cache
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.PMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PMS.API.props
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PMS.API.props
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PMS.API.props
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\scopedcss\bundle\PMS.API.styles.css
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.csproj.CopyComplete
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\refint\PMS.API.dll
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.pdb
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\PMS.API.genruntimeconfig.cache
+C:\workspace\Angular-16-with-ASP-NET-Web-API-EntityFrameworkCore-and-Bootstrap-5\PMS.API\PMS.API\obj\Debug\net6.0\ref\PMS.API.dll
