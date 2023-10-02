@@ -30,7 +30,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ## Executando o Projeto
 
-1. Clone este repositório para a sua máquina local.
+1. Clone este repositório para a sua máquina.
 2. Configure o ambiente de desenvolvimento de acordo com as instruções acima.
 3. Abra o projeto ASP.NET no Visual Studio ou Visual Studio Code.
 4. Configure a conexão com o banco de dados no Entity Framework Core.
